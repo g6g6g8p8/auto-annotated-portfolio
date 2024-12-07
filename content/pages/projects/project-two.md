@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: Jive
+title: Branding Expert XP
 colors: colors-a
 date: '2021-12-20'
 client: Jive
