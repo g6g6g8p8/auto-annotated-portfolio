@@ -1,7 +1,7 @@
 ---
 type: ProjectLayout
 title: Give Yourself This Chance
-colors: colors-b
+colors: colors-a
 date: '2021-10-15'
 client: Mitsubishi Motors
 description: >-
